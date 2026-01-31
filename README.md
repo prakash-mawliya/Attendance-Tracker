@@ -18,13 +18,6 @@ A simple full-stack app to manage subjects and track attendance. Built with Reac
 - backend/models — Mongoose schemas
 - backend/routes — API routes
 
-## Environment Variables
-Backend (.env):
-- MONGODB_URI=your_mongodb_uri
-- PORT=5000
-
-Frontend (.env):
-- REACT_APP_API_URL=http://localhost:5000
 
 ## How to Run
 1) Install dependencies in backend and frontend
